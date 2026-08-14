@@ -58,19 +58,31 @@
 
 ## <img src="https://cdn.simpleicons.org/netflix/E50914" width="20" alt="Netflix"> Currently Watching
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│  CURRENTLY LEARNING                                       │
-│                                                            │
-│  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%                          │
-│                                                            │
-│  Building → Learning → Breaking → Fixing → Shipping       │
-╰────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-**Current season:** `Developer Mode`
+### `DEVELOPER MODE`
 
-**Episode:** `Building the next thing...`
+**Building the next thing...**
+
+<br>
+
+<img src="https://cdn.simpleicons.org/speakerdeck/FFFFFF" width="22" alt="Volume">
+&nbsp;&nbsp;
+<code>🔈</code>
+&nbsp;&nbsp;
+<strong>━━━━━━━━━━━━━━●━━━━</strong>
+&nbsp;&nbsp;
+<code>🔊</code>
+&nbsp;&nbsp;
+<strong>72%</strong>
+
+<br><br>
+
+`BUILDING` &nbsp;·&nbsp; `LEARNING` &nbsp;·&nbsp; `BREAKING` &nbsp;·&nbsp; `FIXING` &nbsp;·&nbsp; `SHIPPING`
+
+</div>
+
+> **Volume:** `72%` · **Episode:** `Building the next thing...`
 
 ---
 
