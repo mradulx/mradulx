@@ -37,20 +37,43 @@ I like working at the boundary between hardware and code — understanding how a
 [▶ EXPLORE BUILDS](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-```text
-┌──────────────────────────────────┐
-│        SYSTEM ONLINE             │
-│                                  │
-│   SENSOR ──► MCU ──► SIGNAL      │
-│      │         │         │       │
-│      ▼         ▼         ▼       │
-│    INPUT     LOGIC     OUTPUT    │
-│                                  │
-│   VCC ─────── GND ───── DATA     │
-└──────────────────────────────────┘
-```
+### SYSTEM ARCHITECTURE
+
+<table>
+<tr>
+<td colspan="5" align="center"><b>● SYSTEM ONLINE</b></td>
+</tr>
+<tr>
+<td align="center"><sub>INPUT</sub><br><b>SENSOR</b></td>
+<td align="center">→</td>
+<td align="center"><sub>PROCESS</sub><br><b>MCU</b></td>
+<td align="center">→</td>
+<td align="center"><sub>OUTPUT</sub><br><b>SIGNAL</b></td>
+</tr>
+<tr>
+<td align="center">↓</td>
+<td></td>
+<td align="center">↓</td>
+<td></td>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center"><code>DATA IN</code></td>
+<td></td>
+<td align="center"><code>LOGIC</code></td>
+<td></td>
+<td align="center"><code>DATA OUT</code></td>
+</tr>
+<tr>
+<td colspan="5" align="center"><br><code>VCC</code> ───── <code>GND</code> ───── <code>DATA</code></td>
+</tr>
+</table>
+
+<br>
+
+`SENSE` → `PROCESS` → `TRANSMIT`
 
 </td>
 </tr>
