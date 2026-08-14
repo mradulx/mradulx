@@ -1,154 +1,258 @@
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/netflix/E50914" width="34" alt="Netflix"> MRADULFLIX
-
-### Welcome to my developer universe.
-
-**`Mradul Singh`** · Developer · Builder · Lifelong Learner
-
-[![GitHub](https://img.shields.io/badge/GitHub-@mradulx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
+<img src="./assets/mradulflix-banner.svg" width="100%" alt="MRADULFLIX — cinematic developer banner" />
 
 </div>
-
----
-
-## <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="20" alt="Play"> Featured
-
-> **NOW STREAMING** · `My Developer Journey`
->
-> I’m building things, learning new technologies, and turning ideas into projects.
-> This profile is my personal collection of everything I'm creating along the way.
-
-**▶ PLAY** · **＋ MY LIST** · **ⓘ MORE INFO**
-
----
-
-## <img src="https://cdn.simpleicons.org/firefox/E50914" width="20" alt="Trending"> Trending on MRADULFLIX
-
-| Project | Genre | Status |
-|---|---|---|
-| **Coming Soon** | Software / Development | `IN PRODUCTION` |
-| **Coming Soon** | AI / Technology | `IN PRODUCTION` |
-| **Coming Soon** | Web / Full Stack | `IN PRODUCTION` |
-| **Coming Soon** | Experiments | `DEVELOPING` |
-
-> *The catalog is currently loading... More projects are coming soon.*
-
----
-
-## <img src="https://cdn.simpleicons.org/knowledgebase/FFFFFF" width="20" alt="Skills"> Because You Like Coding
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" alt="C++">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub">
-
-</div>
-
-> **Note:** This is a starter stack. We'll replace it with your actual technologies before the final version.
-
----
-
-## <img src="https://cdn.simpleicons.org/netflix/E50914" width="20" alt="Netflix"> Currently Watching
-
-<div align="center">
-
-### `DEVELOPER MODE`
-
-**Building the next thing...**
 
 <br>
 
-<img src="https://cdn.simpleicons.org/speakerdeck/FFFFFF" width="22" alt="Volume">
-&nbsp;&nbsp;
-<code>🔈</code>
-&nbsp;&nbsp;
-<strong>━━━━━━━━━━━━━━●━━━━</strong>
-&nbsp;&nbsp;
-<code>🔊</code>
-&nbsp;&nbsp;
-<strong>72%</strong>
+<div align="center">
+
+<a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#skills">SKILLS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#journey">JOURNEY</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#connect">CONNECT</a>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/youtube/E50914" width="19" alt="Play"> FEATURED PROJECT
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### DEVJOURNEY
+
+**A developer portfolio & project universe.**
+
+A place for the things I build, the problems I solve, and the technologies I'm exploring.
+
+`DEVELOPMENT` &nbsp; `PORTFOLIO` &nbsp; `BUILDING`
 
 <br><br>
 
-`BUILDING` &nbsp;·&nbsp; `LEARNING` &nbsp;·&nbsp; `BREAKING` &nbsp;·&nbsp; `FIXING` &nbsp;·&nbsp; `SHIPPING`
+[▶ PLAY PROJECT](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
 
-</div>
+</td>
+<td width="55%" valign="top">
 
-> **Volume:** `72%` · **Episode:** `Building the next thing...`
+<img src="https://dummyimage.com/900x430/090909/e50914&text=DEVJOURNEY" width="100%" alt="Featured project placeholder" />
 
----
-
-## <img src="https://cdn.simpleicons.org/stackblitz/FFFFFF" width="20" alt="Stack"> My Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | `Add your languages` |
-| **Frontend** | `Add your frontend stack` |
-| **Backend** | `Add your backend stack` |
-| **Database** | `Add your databases` |
-| **Tools** | `Git` · `GitHub` · `VS Code` |
-| **Interests** | `AI` · `Automation` · `Software` |
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/netflix/E50914" width="20" alt="Netflix"> Top Picks For You
+<a name="projects"></a>
 
-### 01 · The Flagship
-**A polished project that represents what I can build.**
+## <img src="https://cdn.simpleicons.org/firefox/E50914" width="19" alt="Trending"> TRENDING PROJECTS
 
-`▶ WATCH PROJECT` · `ⓘ DETAILS`
+<table>
+<tr>
+<td width="20%" valign="top">
 
-### 02 · The Experiment
-**An idea I turned into something that actually works.**
+**01**
 
-`▶ WATCH PROJECT` · `ⓘ DETAILS`
+### PROJECT ONE
 
-### 03 · The Side Quest
-**A smaller project built because I wanted to know: “Can I do this?”**
+`FEATURED`
 
-`▶ WATCH PROJECT` · `ⓘ DETAILS`
+Software / Development
+
+**★★★★★**
+
+[VIEW](https://github.com/mradulx)
+
+</td>
+<td width="20%" valign="top">
+
+**02**
+
+### PROJECT TWO
+
+`FULL STACK`
+
+Web Application
+
+**★★★★★**
+
+[VIEW](https://github.com/mradulx)
+
+</td>
+<td width="20%" valign="top">
+
+**03**
+
+### PROJECT THREE
+
+`AI / ML`
+
+Artificial Intelligence
+
+**★★★★☆**
+
+[VIEW](https://github.com/mradulx)
+
+</td>
+<td width="20%" valign="top">
+
+**04**
+
+### PROJECT FOUR
+
+`AUTOMATION`
+
+Automation / Tools
+
+**★★★★☆**
+
+[VIEW](https://github.com/mradulx)
+
+</td>
+<td width="20%" valign="top">
+
+**05**
+
+### PROJECT FIVE
+
+`UTILITY`
+
+Developer Utility
+
+**★★★★☆**
+
+[VIEW](https://github.com/mradulx)
+
+</td>
+</tr>
+</table>
+
+> **Catalog status:** Loading real projects. These cards will become your actual GitHub projects as we build them.
 
 ---
-
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" alt="GitHub"> My Viewing Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mradulx&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=E50914&icon_color=E50914&text_color=FFFFFF)
+<table>
+<tr>
+<td width="35%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradulx&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E50914&text_color=FFFFFF)
+<a name="skills"></a>
+
+## <img src="https://cdn.simpleicons.org/codeberg/E50914" width="19" alt="Code"> MY TECH STACK
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"> &nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"> &nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"> &nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git">
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="40" alt="Node.js"> &nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"> &nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"> &nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"> &nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code">
+
+</div>
+
+> Starter stack — we'll replace this with your real stack.
+
+</td>
+<td width="35%" valign="top">
+
+<a name="journey"></a>
+
+## <img src="https://cdn.simpleicons.org/netflix/E50914" width="19" alt="Netflix"> CURRENTLY WATCHING
+
+### `DEVELOPER MODE`
+
+**Season 01 · Episode 01**
+
+<br>
+
+**Muted** &nbsp;&nbsp; <code>━━━━━━━━━━━━━━●━━━━</code> &nbsp;&nbsp; **72%**
+
+<sub>▏ Building &nbsp;&nbsp; Learning &nbsp;&nbsp; Breaking &nbsp;&nbsp; Fixing &nbsp;&nbsp; Shipping ▕</sub>
+
+<br><br>
+
+`▶ NOW PLAYING`  **The Next Big Build**
+
+<sub>A story of ideas, code and persistence.</sub>
+
+</td>
+<td width="30%" valign="top">
+
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="GitHub"> GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mradulx&show_icons=true&hide_border=true&bg_color=090909&title_color=E50914&icon_color=E50914&text_color=FFFFFF&ring_color=E50914" width="100%" alt="GitHub stats" />
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" alt="Profile"> About Me
+<a name="about"></a>
 
-Hey! I'm **Mradul**.
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="Profile"> ABOUT ME
 
-I'm interested in technology, building useful things, and continuously improving as a developer. This GitHub is where I document that journey — one project at a time.
+<table>
+<tr>
+<td width="70%" valign="top">
 
-**Currently:** `Learning · Building · Exploring`
+### MRADUL SINGH
 
-**Based in:** `India`
+Developer · Builder · Lifelong Learner
+
+I'm interested in turning ideas into useful software, learning new technologies, and continuously improving through real projects.
+
+**Currently:** `LEARNING` · `BUILDING` · `EXPLORING`
+
+**Based in:** `INDIA`
+
+</td>
+<td width="30%" valign="top">
+
+### TOP PICKS FOR YOU
+
+`OPEN SOURCE`
+
+`CLEAN CODE`
+
+`PROBLEM SOLVING`
+
+`IMPACT DRIVEN`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/linktree/FFFFFF" width="20" alt="Connect"> Continue Watching
+<a name="connect"></a>
+
+## <img src="https://cdn.simpleicons.org/linktree/FFFFFF" width="19" alt="Connect"> CONNECT
 
 <div align="center">
 
-**Liked what you saw? Let's connect.**
+[![GitHub](https://img.shields.io/badge/GitHub-mradulx-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
+**Liked what you saw? Let's build something worth streaming.**
 
 </div>
 
@@ -156,10 +260,12 @@ I'm interested in technology, building useful things, and continuously improving
 
 <div align="center">
 
-### <img src="https://cdn.simpleicons.org/netflix/E50914" width="24" alt="Netflix"> MRADULFLIX
+<img src="https://cdn.simpleicons.org/netflix/E50914" width="24" alt="Netflix">
 
-*There’s always something new loading...*
+### MRADULFLIX
 
-**© 2026 Mradul Singh · All projects independently produced.**
+*REAL PROJECTS. REAL IMPACT.*
+
+`CODE` · `COMMIT` · `CONQUER`
 
 </div>
