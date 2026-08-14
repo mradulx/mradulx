@@ -196,22 +196,6 @@ STATUS  ● LIVE
 
 ---
 
-<a name="contributions"></a>
-
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating through the GitHub contribution grid" />
-
-<br>
-
-`CONTRIBUTIONS` → `SNAKE` → `EAT` → `REPEAT`
-
-</div>
-
----
-
 <a name="about"></a>
 
 ## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Engineering"> ABOUT THE ENGINEER
