@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴 MRADULFLIX
+# <img src="https://cdn.simpleicons.org/netflix/E50914" width="34" alt="Netflix"> MRADULFLIX
 
 ### Welcome to my developer universe.
 
@@ -12,47 +12,51 @@
 
 ---
 
-## 🎬 Featured
+## <img src="https://cdn.simpleicons.org/youtube/FFFFFF" width="20" alt="Play"> Featured
 
-> **Now Streaming:** `My Developer Journey`
+> **NOW STREAMING** · `My Developer Journey`
 >
 > I’m building things, learning new technologies, and turning ideas into projects.
 > This profile is my personal collection of everything I'm creating along the way.
 
-**▶ Play** · **＋ My List** · **ⓘ More Info**
+**▶ PLAY** · **＋ MY LIST** · **ⓘ MORE INFO**
 
 ---
 
-## 🔥 Trending on MRADULFLIX
+## <img src="https://cdn.simpleicons.org/firefox/E50914" width="20" alt="Trending"> Trending on MRADULFLIX
 
-| 🎞️ Project | 🎭 Genre | 📈 Status |
+| Project | Genre | Status |
 |---|---|---|
-| **Coming Soon** | Software / Development | 🟡 In Production |
-| **Coming Soon** | AI / Technology | 🟡 In Production |
-| **Coming Soon** | Web / Full Stack | 🟡 In Production |
-| **Coming Soon** | Experiments | 🟢 Developing |
+| **Coming Soon** | Software / Development | `IN PRODUCTION` |
+| **Coming Soon** | AI / Technology | `IN PRODUCTION` |
+| **Coming Soon** | Web / Full Stack | `IN PRODUCTION` |
+| **Coming Soon** | Experiments | `DEVELOPING` |
 
 > *The catalog is currently loading... More projects are coming soon.*
 
 ---
 
-## 🧠 Because You Like Coding
+## <img src="https://cdn.simpleicons.org/knowledgebase/FFFFFF" width="20" alt="Skills"> Because You Like Coding
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" alt="C++">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub">
 
 </div>
 
-> **Note:** The tech stack above is a starter design. We'll replace it with your actual technologies before the final version.
+> **Note:** This is a starter stack. We'll replace it with your actual technologies before the final version.
 
 ---
 
-## 📺 Currently Watching
+## <img src="https://cdn.simpleicons.org/netflix/E50914" width="20" alt="Netflix"> Currently Watching
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -70,7 +74,7 @@
 
 ---
 
-## 🎞️ My Tech Stack
+## <img src="https://cdn.simpleicons.org/stackblitz/FFFFFF" width="20" alt="Stack"> My Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -83,7 +87,7 @@
 
 ---
 
-## 🍿 Top Picks For You
+## <img src="https://cdn.simpleicons.org/netflix/E50914" width="20" alt="Netflix"> Top Picks For You
 
 ### 01 · The Flagship
 **A polished project that represents what I can build.**
@@ -102,7 +106,7 @@
 
 ---
 
-## 📊 My Viewing Activity
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" alt="GitHub"> My Viewing Activity
 
 <div align="center">
 
@@ -114,7 +118,7 @@
 
 ---
 
-## 👤 About Me
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" alt="Profile"> About Me
 
 Hey! I'm **Mradul**.
 
@@ -122,11 +126,11 @@ I'm interested in technology, building useful things, and continuously improving
 
 **Currently:** `Learning · Building · Exploring`
 
-**Based in:** `India 🇮🇳`
+**Based in:** `India`
 
 ---
 
-## 📬 Continue Watching
+## <img src="https://cdn.simpleicons.org/linktree/FFFFFF" width="20" alt="Connect"> Continue Watching
 
 <div align="center">
 
@@ -140,7 +144,7 @@ I'm interested in technology, building useful things, and continuously improving
 
 <div align="center">
 
-### 🔴 MRADULFLIX
+### <img src="https://cdn.simpleicons.org/netflix/E50914" width="24" alt="Netflix"> MRADULFLIX
 
 *There’s always something new loading...*
 
