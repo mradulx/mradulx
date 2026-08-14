@@ -7,13 +7,11 @@
 <br>
 
 <div align="center">
-
 <a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#connect">CONNECT</a>
-
 </div>
 
 ---
@@ -38,9 +36,7 @@ I like working at the boundary between hardware and code — understanding how a
 
 </td>
 <td width="45%" valign="top" align="center">
-
 <img src="./assets/system-architecture.svg" width="100%" alt="Animated system architecture: sensor to MCU to output signal" />
-
 </td>
 </tr>
 </table>
@@ -56,9 +52,7 @@ I like working at the boundary between hardware and code — understanding how a
 <td width="20%" valign="top">
 
 **01**
-
 ### EMBEDDED
-
 `MCU / IoT`
 
 Hardware + firmware projects.
@@ -71,9 +65,7 @@ Hardware + firmware projects.
 <td width="20%" valign="top">
 
 **02**
-
 ### SIGNAL LAB
-
 `DSP / SIGNALS`
 
 Exploring signals, sampling and processing.
@@ -86,9 +78,7 @@ Exploring signals, sampling and processing.
 <td width="20%" valign="top">
 
 **03**
-
 ### DIGITAL LOGIC
-
 `DIGITAL / RTL`
 
 Logic, systems and digital design.
@@ -101,9 +91,7 @@ Logic, systems and digital design.
 <td width="20%" valign="top">
 
 **04**
-
 ### COMMUNICATION
-
 `RF / DATA`
 
 Communication and data systems.
@@ -116,9 +104,7 @@ Communication and data systems.
 <td width="20%" valign="top">
 
 **05**
-
 ### SOFTWARE
-
 `CODE / TOOLS`
 
 Software that makes systems useful.
@@ -136,13 +122,11 @@ Software that makes systems useful.
 ---
 
 <div align="center">
-
 <table>
 <tr>
 <td width="35%" valign="top">
 
 <a name="ece"></a>
-
 ## <img src="https://cdn.simpleicons.org/espressif/00d9ff" width="19" alt="Espressif"> ECE LAB
 
 ### SIGNAL MONITOR
@@ -164,31 +148,23 @@ STATUS  ● LIVE
 <td width="35%" valign="top">
 
 <a name="stack"></a>
-
 ## <img src="https://cdn.simpleicons.org/visualstudiocode/00d9ff" width="19" alt="VS Code"> ENGINEERING TOOLBOX
 
 <div align="center">
-
 <img src="https://cdn.simpleicons.org/arduino/00979D" width="38" alt="Arduino"> &nbsp;
 <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="38" alt="Raspberry Pi"> &nbsp;
 <img src="https://cdn.simpleicons.org/espressif/E7352C" width="38" alt="Espressif">
-
 <br><br>
-
 <img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python"> &nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" alt="C++"> &nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git"> &nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub">
-
 <br><br>
-
 <sub>MICROCONTROLLERS · EMBEDDED · PYTHON · C/C++</sub><br>
 <sub>GIT · GITHUB · DEBUGGING · SYSTEM DESIGN</sub>
-
 </div>
 
 <br>
-
 > **TOOLBOX:** Hardware, firmware and software — connected.
 
 </td>
@@ -208,16 +184,29 @@ STATUS  ● LIVE
 | `ACTIVE` | `BUILDING` |
 
 <br>
-
 [![GitHub followers](https://img.shields.io/github/followers/mradulx?style=flat-square&label=FOLLOWERS&labelColor=071015&color=00d9ff)](https://github.com/mradulx?tab=followers)
 
 [VIEW PROFILE ↗](https://github.com/mradulx)
 
 </div>
-
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<a name="contributions"></a>
+
+## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating through the GitHub contribution grid" />
+
+<br>
+
+`CONTRIBUTIONS` → `SNAKE` → `EAT` → `REPEAT`
 
 </div>
 
@@ -287,7 +276,6 @@ Find the real problem.
 ---
 
 <div align="center">
-
 <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="24" alt="Electronics">
 
 ### MRADUL // ECE LAB
