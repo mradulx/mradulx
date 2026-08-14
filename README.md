@@ -17,36 +17,9 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="19" alt="Arduino"> FEATURED BUILD
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### THE ENGINEERING JOURNEY
-
-**Electronics × Embedded Systems × Software**
-
-I like working at the boundary between hardware and code — understanding how a signal travels, how a circuit behaves, and how software can control the system around it.
-
-`ECE` &nbsp; `EMBEDDED` &nbsp; `SIGNALS` &nbsp; `SOFTWARE`
-
-<br><br>
-
-[▶ EXPLORE BUILDS](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
-
-</td>
-<td width="45%" valign="top" align="center">
-<img src="./assets/system-architecture.svg" width="100%" alt="Animated system architecture: sensor to MCU to output signal" />
-</td>
-</tr>
-</table>
-
----
-
 <a name="projects"></a>
 
-## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Raspberry Pi"> ENGINEERING BUILDS
+## ENGINEERING BUILDS
 
 <table>
 <tr>
@@ -128,7 +101,7 @@ Software that makes systems useful.
 <td width="35%" valign="top">
 
 <a name="ece"></a>
-## <img src="https://cdn.simpleicons.org/espressif/00d9ff" width="19" alt="Espressif"> ECE LAB
+## ECE LAB
 
 ### SIGNAL MONITOR
 
@@ -149,7 +122,7 @@ STATUS  ● LIVE
 <td width="35%" valign="top">
 
 <a name="stack"></a>
-## <img src="https://cdn.simpleicons.org/visualstudiocode/00d9ff" width="19" alt="VS Code"> ENGINEERING TOOLBOX
+## ENGINEERING TOOLBOX
 
 <div align="center">
 <img src="https://cdn.simpleicons.org/arduino/00979D" width="38" alt="Arduino"> &nbsp;
@@ -171,7 +144,7 @@ STATUS  ● LIVE
 </td>
 <td width="30%" valign="top">
 
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="GitHub"> GITHUB SIGNAL
+## GITHUB SIGNAL
 
 <div align="center">
 
@@ -199,15 +172,15 @@ STATUS  ● LIVE
 
 <a name="contributions"></a>
 
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION SNAKE
+## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION ROCKET
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake game eating through the GitHub contribution grid" />
+<img src="./assets/contribution-rocket.svg" width="100%" alt="Animated rocket flying across the GitHub contribution section" />
 
 <br>
 
-`CONTRIBUTIONS` → `SNAKE` → `EAT` → `REPEAT`
+`CONTRIBUTIONS` → `LAUNCH` → `BUILD` → `REPEAT`
 
 </div>
 
@@ -215,7 +188,7 @@ STATUS  ● LIVE
 
 <a name="about"></a>
 
-## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Engineering"> ABOUT THE ENGINEER
+## ABOUT THE ENGINEER
 
 <table>
 <tr>
@@ -234,7 +207,7 @@ I enjoy the part where theory becomes practical: **design → prototype → test
 </td>
 <td width="30%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="16" alt="Arduino"> ENGINEERING MINDSET
+### ENGINEERING MINDSET
 
 `SYSTEMS`
 
@@ -264,7 +237,7 @@ Find the real problem.
 
 <a name="connect"></a>
 
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="Connect"> CONNECT
+## CONNECT
 
 <div align="center">
 
@@ -277,7 +250,6 @@ Find the real problem.
 ---
 
 <div align="center">
-<img src="https://cdn.simpleicons.org/arduino/00d9ff" width="24" alt="Electronics">
 
 ### MRADUL // ECE LAB
 
