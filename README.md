@@ -159,7 +159,7 @@ Developer Utility
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="38" alt="MongoDB"> &nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="38" alt="Docker"> &nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"> &nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="38" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" alt="Visual Studio Code">
 
 <br>
 
