@@ -203,7 +203,7 @@ STATUS  ● LIVE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake game eating through the GitHub contribution grid" />
+<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake game eating through the GitHub contribution grid" />
 
 <br>
 
