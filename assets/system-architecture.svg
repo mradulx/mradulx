@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430" role="img" aria-labelledby="title desc">
+  <title id="title">Animated ECE system architecture</title>
+  <desc id="desc">A sensor sends data to an MCU for processing and the processed signal is transmitted to the output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1016"/>
+      <stop offset="1" stop-color="#111923"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#66f6ff"/>
+      <stop offset="0.5" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#8bf9ff"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <style>
+      .label{font:600 15px Arial,sans-serif;fill:#dce7ef;letter-spacing:.8px}
+      .small{font:12px Arial,sans-serif;fill:#8fa3b3;letter-spacing:1px}
+      .mono{font:700 13px monospace;fill:#e7f9ff;letter-spacing:1px}
+      .line{stroke:#344250;stroke-width:1;fill:none}
+      .active{stroke:url(#cyan);stroke-width:2;fill:none;filter:url(#glow)}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="718" height="428" rx="16" fill="url(#bg)" stroke="#2a3743"/>
+  <rect x="18" y="18" width="684" height="394" rx="12" fill="none" stroke="#1d2a35"/>
+
+  <text x="360" y="48" text-anchor="middle" class="label" font-size="22">SYSTEM ARCHITECTURE</text>
+  <circle cx="286" cy="77" r="5" fill="#00d9ff" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="360" y="82" text-anchor="middle" class="label">SYSTEM ONLINE</text>
+  <text x="360" y="102" text-anchor="middle" class="small">REAL-TIME SIGNAL PIPELINE</text>
+
+  <!-- architecture cards -->
+  <rect x="44" y="128" width="190" height="150" rx="12" fill="#101820" stroke="#334350"/>
+  <rect x="265" y="128" width="190" height="150" rx="12" fill="#101820" stroke="#334350"/>
+  <rect x="486" y="128" width="190" height="150" rx="12" fill="#101820" stroke="#334350"/>
+
+  <text x="139" y="153" text-anchor="middle" class="small">INPUT</text>
+  <text x="139" y="178" text-anchor="middle" class="label">SENSOR</text>
+  <text x="360" y="153" text-anchor="middle" class="small">PROCESS</text>
+  <text x="360" y="178" text-anchor="middle" class="label">MCU</text>
+  <text x="581" y="153" text-anchor="middle" class="small">OUTPUT</text>
+  <text x="581" y="178" text-anchor="middle" class="label">SIGNAL</text>
+
+  <rect x="73" y="201" width="132" height="39" rx="8" fill="#151f29" stroke="#273642"/>
+  <rect x="294" y="201" width="132" height="39" rx="8" fill="#151f29" stroke="#273642"/>
+  <rect x="515" y="201" width="132" height="39" rx="8" fill="#151f29" stroke="#273642"/>
+  <text x="139" y="226" text-anchor="middle" class="mono">DATA IN</text>
+  <text x="360" y="226" text-anchor="middle" class="mono">LOGIC</text>
+  <text x="581" y="226" text-anchor="middle" class="mono">DATA OUT</text>
+
+  <!-- signal paths -->
+  <path d="M205 220 H294" class="line"/>
+  <path d="M426 220 H515" class="line"/>
+  <path d="M205 220 H294" class="active" stroke-dasharray="18 70" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="88" to="0" dur="1.1s" repeatCount="indefinite"/>
+  </path>
+  <path d="M426 220 H515" class="active" stroke-dasharray="18 70" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="88" to="0" dur="1.1s" begin=".55s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="250" y="213" text-anchor="middle" class="small">→</text>
+  <text x="471" y="213" text-anchor="middle" class="small">→</text>
+
+  <!-- vertical signal indicators -->
+  <path d="M139 278 V301" class="line"/>
+  <path d="M360 278 V301" class="line"/>
+  <path d="M581 278 V301" class="line"/>
+  <circle cx="139" cy="301" r="4" fill="#00d9ff" filter="url(#glow)"><animate attributeName="cy" values="278;301;278" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="301" r="4" fill="#00d9ff" filter="url(#glow)"><animate attributeName="cy" values="278;301;278" dur="1.5s" begin=".35s" repeatCount="indefinite"/></circle>
+  <circle cx="581" cy="301" r="4" fill="#00d9ff" filter="url(#glow)"><animate attributeName="cy" values="278;301;278" dur="1.5s" begin=".7s" repeatCount="indefinite"/></circle>
+
+  <!-- bus -->
+  <rect x="74" y="326" width="572" height="54" rx="10" fill="#0d151d" stroke="#2c3a46"/>
+  <text x="102" y="348" class="small">POWER / DATA BUS</text>
+  <text x="102" y="367" class="mono">VCC</text>
+  <path d="M142 362 H286" stroke="#40505d" stroke-width="2"/>
+  <text x="304" y="367" class="mono">GND</text>
+  <path d="M350 362 H470" stroke="#40505d" stroke-width="2"/>
+  <text x="490" y="367" class="mono">DATA</text>
+  <circle cx="286" cy="362" r="3" fill="#00d9ff" filter="url(#glow)"/>
+  <circle cx="470" cy="362" r="3" fill="#00d9ff" filter="url(#glow)"/>
+
+  <text x="360" y="404" text-anchor="middle" class="mono" fill="#00d9ff">SENSE  →  PROCESS  →  TRANSMIT</text>
+  <rect x="30" y="410" width="660" height="2" rx="1" fill="#17232d"/>
+  <rect x="30" y="410" width="180" height="2" rx="1" fill="url(#cyan)">
+    <animate attributeName="x" values="30;510;30" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
