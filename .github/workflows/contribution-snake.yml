@@ -1,28 +1,31 @@
-name: Contribution Snake
+name: 🐍 Contribution Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 */12 * * *"
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mradulx
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      - name: Publish snake animation
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Generate snake animation from contribution grid
+        uses: Platane/snk@v3.5.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
