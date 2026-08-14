@@ -10,7 +10,6 @@
 <a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#contributions">CONTRIBUTIONS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#connect">CONNECT</a>
 </div>
@@ -193,22 +192,6 @@ STATUS  ● LIVE
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<a name="contributions"></a>
-
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION ROCKET
-
-<div align="center">
-
-<img src="./assets/contribution-rocket.svg" width="100%" alt="Animated rocket flying across the GitHub contribution section" />
-
-<br>
-
-`CONTRIBUTIONS` → `LAUNCH` → `BUILD` → `REPEAT`
-
 </div>
 
 ---
