@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Animated contribution rocket</title>
+  <desc id="desc">A futuristic rocket launches across a dark engineering-style space scene.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#050b14"/>
+      <stop offset="1" stop-color="#0b1724"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0" x2="1">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <g fill="#fff" opacity=".8">
+    <circle cx="80" cy="55" r="2"/><circle cx="180" cy="180" r="1.5"/><circle cx="310" cy="70" r="2"/><circle cx="470" cy="35" r="1.5"/><circle cx="650" cy="205" r="2"/><circle cx="850" cy="50" r="1.5"/><circle cx="1040" cy="175" r="2"/><circle cx="1140" cy="80" r="1.5"/>
+  </g>
+  <g opacity=".45" stroke="#00d9ff" stroke-width="1">
+    <path d="M0 215H1200"/><path d="M0 225H1200"/><path d="M0 235H1200"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M-30 150 C220 115 370 180 560 135 S900 100 1230 125" fill="none" stroke="#00d9ff" stroke-width="3" opacity=".35"/>
+    <path d="M-20 162 C210 130 370 192 565 148 S910 112 1220 138" fill="none" stroke="#fff" stroke-width="1" opacity=".28"/>
+  </g>
+  <g>
+    <g transform="translate(610 130)">
+      <animateTransform attributeName="transform" type="translate" values="560 132;610 130;660 128;610 130;560 132" dur="4s" repeatCount="indefinite"/>
+      <g transform="rotate(-8)">
+        <path d="M-76 0 C-35-42 28-45 67-8 L78 0 L67 8 C28 45-35 42-76 0Z" fill="#eaf7ff" stroke="#00d9ff" stroke-width="3"/>
+        <path d="M-76 0 L-105-22 L-91 0 L-105 22Z" fill="#00d9ff"/>
+        <path d="M15-30 L45-55 L52-22Z" fill="#bfeeff" stroke="#00d9ff" stroke-width="2"/>
+        <path d="M15 30 L45 55 L52 22Z" fill="#bfeeff" stroke="#00d9ff" stroke-width="2"/>
+        <circle cx="35" cy="0" r="14" fill="#071015" stroke="#00d9ff" stroke-width="4"/>
+        <circle cx="35" cy="0" r="6" fill="#00d9ff">
+          <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+        <path d="M-112 0 C-145-13-170-9-195 0 C-170 9-145 13-112 0Z" fill="url(#flame)" filter="url(#glow)">
+          <animate attributeName="d" values="M-112 0 C-145-13-170-9-195 0 C-170 9-145 13-112 0Z;M-112 0 C-150-20-185-8-215 0 C-185 8-150 20-112 0Z;M-112 0 C-145-13-170-9-195 0 C-170 9-145 13-112 0Z" dur=".5s" repeatCount="indefinite"/>
+        </path>
+      </g>
+    </g>
+  </g>
+  <text x="42" y="48" fill="#00d9ff" font-family="monospace" font-size="16" letter-spacing="4">CONTRIBUTION MISSION // ONLINE</text>
+  <text x="42" y="232" fill="#8aa7b8" font-family="monospace" font-size="13">BUILD • LAUNCH • EXPLORE • REPEAT</text>
+</svg>
