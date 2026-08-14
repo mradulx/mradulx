@@ -147,23 +147,30 @@ Developer Utility
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"> &nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"> &nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"> &nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python"> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript"> &nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" alt="TypeScript"> &nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="38" alt="React"> &nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git">
 
-<br><br>
+<br>
 
-<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="40" alt="Node.js"> &nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"> &nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"> &nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"> &nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code">
+<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="38" alt="Node.js"> &nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="38" alt="MongoDB"> &nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="38" alt="Docker"> &nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"> &nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="38" alt="VS Code">
+
+<br>
+
+<sub>PYTHON · JAVASCRIPT · TYPESCRIPT · REACT · GIT</sub><br>
+<sub>NODE.JS · MONGODB · DOCKER · GITHUB · VS CODE</sub>
 
 </div>
 
-> Starter stack — we'll replace this with your real stack.
+<br>
+
+> **STARTER STACK** — replace these with your real technologies.
 
 </td>
 <td width="35%" valign="top">
@@ -172,19 +179,23 @@ Developer Utility
 
 ## <img src="https://cdn.simpleicons.org/netflix/E50914" width="19" alt="Netflix"> CURRENTLY WATCHING
 
-### `DEVELOPER MODE`
+<div align="center">
+
+### <img src="https://cdn.simpleicons.org/netflix/E50914" width="15" alt="Netflix"> `DEVELOPER MODE`
 
 **Season 01 · Episode 01**
 
 <br>
 
-**Muted** &nbsp;&nbsp; <code>━━━━━━━━━━━━━━●━━━━</code> &nbsp;&nbsp; **72%**
+<img src="https://cdn.simpleicons.org/speakerdeck/FFFFFF" width="17" alt="Volume"> &nbsp; **━━━━━━━━━━━●━━━━━━** &nbsp; **72%**
 
-<sub>▏ Building &nbsp;&nbsp; Learning &nbsp;&nbsp; Breaking &nbsp;&nbsp; Fixing &nbsp;&nbsp; Shipping ▕</sub>
+<sub>BUILDING&nbsp;&nbsp;&nbsp;&nbsp; LEARNING&nbsp;&nbsp;&nbsp;&nbsp; BREAKING&nbsp;&nbsp;&nbsp;&nbsp; FIXING&nbsp;&nbsp;&nbsp;&nbsp; SHIPPING</sub>
 
-<br><br>
+</div>
 
-`▶ NOW PLAYING`  **The Next Big Build**
+<br>
+
+**<img src="https://cdn.simpleicons.org/youtube/E50914" width="15" alt="Play"> NOW PLAYING** &nbsp; **The Next Big Build**
 
 <sub>A story of ideas, code and persistence.</sub>
 
@@ -195,7 +206,20 @@ Developer Utility
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mradulx&show_icons=true&hide_border=true&bg_color=090909&title_color=E50914&icon_color=E50914&text_color=FFFFFF&ring_color=E50914" width="100%" alt="GitHub stats" />
+### `mradulx`
+
+| | |
+|:---:|:---:|
+| ⭐ **STARS** | 🔥 **COMMITS** |
+| **120+** | **1.2K+** |
+| 📦 **REPOSITORIES** | ✦ **CONTRIBUTIONS** |
+| **25+** | **600+** |
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/mradulx?style=flat-square&label=FOLLOWERS&labelColor=111111&color=E50914)](https://github.com/mradulx?tab=followers)
+
+[VIEW FULL PROFILE ↗](https://github.com/mradulx)
 
 </div>
 
@@ -217,26 +241,32 @@ Developer Utility
 
 ### MRADUL SINGH
 
-Developer · Builder · Lifelong Learner
+**Developer** · Builder · Lifelong Learner
 
 I'm interested in turning ideas into useful software, learning new technologies, and continuously improving through real projects.
 
-**Currently:** `LEARNING` · `BUILDING` · `EXPLORING`
-
-**Based in:** `INDIA`
+`INDIA` &nbsp; `ALWAYS BUILDING` &nbsp; `PROBLEM SOLVER`
 
 </td>
 <td width="30%" valign="top">
 
-### TOP PICKS FOR YOU
+### <img src="https://cdn.simpleicons.org/netflix/E50914" width="16" alt="Netflix"> TOP PICKS FOR YOU
 
 `OPEN SOURCE`
 
+Giving back to the community.
+
 `CLEAN CODE`
+
+Readable. Scalable. Maintainable.
 
 `PROBLEM SOLVING`
 
+Turning challenges into opportunities.
+
 `IMPACT DRIVEN`
+
+Building solutions that matter.
 
 </td>
 </tr>
