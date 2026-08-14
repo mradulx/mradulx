@@ -10,6 +10,7 @@
 <a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#contributions">CONTRIBUTIONS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#connect">CONNECT</a>
 </div>
@@ -192,6 +193,22 @@ STATUS  ● LIVE
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<a name="contributions"></a>
+
+## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mradulx/mradulx/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake game" />
+
+<br>
+
+`CONTRIBUTIONS` → `SNAKE` → `BUILD` → `REPEAT`
+
 </div>
 
 ---
