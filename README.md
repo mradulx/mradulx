@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mradulflix-banner.svg" width="100%" alt="MRADULFLIX — cinematic developer banner" />
+<img src="./assets/mradulflix-banner.svg" width="100%" alt="Mradul — ECE engineering banner" />
 
 </div>
 
@@ -9,8 +9,8 @@
 <div align="center">
 
 <a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#skills">SKILLS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#journey">JOURNEY</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#connect">CONNECT</a>
 
@@ -18,28 +18,39 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/youtube/E50914" width="19" alt="Play"> FEATURED PROJECT
+## <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="19" alt="Arduino"> FEATURED BUILD
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
-### DEVJOURNEY
+### THE ENGINEERING JOURNEY
 
-**A developer portfolio & project universe.**
+**Electronics × Embedded Systems × Software**
 
-A place for the things I build, the problems I solve, and the technologies I'm exploring.
+I like working at the boundary between hardware and code — understanding how a signal travels, how a circuit behaves, and how software can control the system around it.
 
-`DEVELOPMENT` &nbsp; `PORTFOLIO` &nbsp; `BUILDING`
+`ECE` &nbsp; `EMBEDDED` &nbsp; `SIGNALS` &nbsp; `SOFTWARE`
 
 <br><br>
 
-[▶ PLAY PROJECT](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
+[▶ EXPLORE BUILDS](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
 
 </td>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://dummyimage.com/900x430/090909/e50914&text=DEVJOURNEY" width="100%" alt="Featured project placeholder" />
+```text
+┌──────────────────────────────────┐
+│        SYSTEM ONLINE             │
+│                                  │
+│   SENSOR ──► MCU ──► SIGNAL      │
+│      │         │         │       │
+│      ▼         ▼         ▼       │
+│    INPUT     LOGIC     OUTPUT    │
+│                                  │
+│   VCC ─────── GND ───── DATA     │
+└──────────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -49,7 +60,7 @@ A place for the things I build, the problems I solve, and the technologies I'm e
 
 <a name="projects"></a>
 
-## <img src="https://cdn.simpleicons.org/firefox/E50914" width="19" alt="Trending"> TRENDING PROJECTS
+## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Raspberry Pi"> ENGINEERING BUILDS
 
 <table>
 <tr>
@@ -57,81 +68,81 @@ A place for the things I build, the problems I solve, and the technologies I'm e
 
 **01**
 
-### PROJECT ONE
+### EMBEDDED
 
-`FEATURED`
+`MCU / IoT`
 
-Software / Development
+Hardware + firmware projects.
 
-**★★★★★**
+**◉ ◉ ◉ ◉ ◉**
 
-[VIEW](https://github.com/mradulx)
+[VIEW →](https://github.com/mradulx)
 
 </td>
 <td width="20%" valign="top">
 
 **02**
 
-### PROJECT TWO
+### SIGNAL LAB
 
-`FULL STACK`
+`DSP / SIGNALS`
 
-Web Application
+Exploring signals, sampling and processing.
 
-**★★★★★**
+**◉ ◉ ◉ ◉ ◉**
 
-[VIEW](https://github.com/mradulx)
+[VIEW →](https://github.com/mradulx)
 
 </td>
 <td width="20%" valign="top">
 
 **03**
 
-### PROJECT THREE
+### DIGITAL LOGIC
 
-`AI / ML`
+`DIGITAL / RTL`
 
-Artificial Intelligence
+Logic, systems and digital design.
 
-**★★★★☆**
+**◉ ◉ ◉ ◉ ○**
 
-[VIEW](https://github.com/mradulx)
+[VIEW →](https://github.com/mradulx)
 
 </td>
 <td width="20%" valign="top">
 
 **04**
 
-### PROJECT FOUR
+### COMMUNICATION
 
-`AUTOMATION`
+`RF / DATA`
 
-Automation / Tools
+Communication and data systems.
 
-**★★★★☆**
+**◉ ◉ ◉ ◉ ○**
 
-[VIEW](https://github.com/mradulx)
+[VIEW →](https://github.com/mradulx)
 
 </td>
 <td width="20%" valign="top">
 
 **05**
 
-### PROJECT FIVE
+### SOFTWARE
 
-`UTILITY`
+`CODE / TOOLS`
 
-Developer Utility
+Software that makes systems useful.
 
-**★★★★☆**
+**◉ ◉ ◉ ◉ ◉**
 
-[VIEW](https://github.com/mradulx)
+[VIEW →](https://github.com/mradulx)
 
 </td>
 </tr>
 </table>
 
-> **Catalog status:** Loading real projects. These cards will become your actual GitHub projects as we build them.
+> **LAB STATUS:** `ACTIVE` · Real engineering projects will be added here as they are built.
 
 ---
 
@@ -141,68 +152,60 @@ Developer Utility
 <tr>
 <td width="35%" valign="top">
 
-<a name="skills"></a>
+<a name="ece"></a>
 
-## <img src="https://cdn.simpleicons.org/codeberg/E50914" width="19" alt="Code"> MY TECH STACK
+## <img src="https://cdn.simpleicons.org/espressif/00d9ff" width="19" alt="Espressif"> ECE LAB
 
-<div align="center">
+### SIGNAL MONITOR
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python"> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript"> &nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" alt="TypeScript"> &nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="38" alt="React"> &nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git">
+```text
+CH-1  ─────────────────────────
+      ▁▂▃▄▆▇█▇▆▄▃▂▁▂▄▆█▇▅▃▂
 
-<br>
+FREQ    1.00 kHz
+V/DIV   1.00 V
+T/DIV   10 ms
+MODE    AUTO
+STATUS  ● LIVE
+```
 
-<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="38" alt="Node.js"> &nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="38" alt="MongoDB"> &nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="38" alt="Docker"> &nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" alt="Visual Studio Code">
-
-<br>
-
-<sub>PYTHON · JAVASCRIPT · TYPESCRIPT · REACT · GIT</sub><br>
-<sub>NODE.JS · MONGODB · DOCKER · GITHUB · VS CODE</sub>
-
-</div>
-
-<br>
-
-> **STARTER STACK** — replace these with your real technologies.
+**BUILD → MEASURE → DEBUG → REPEAT**
 
 </td>
 <td width="35%" valign="top">
 
-<a name="journey"></a>
+<a name="stack"></a>
 
-## <img src="https://cdn.simpleicons.org/netflix/E50914" width="19" alt="Netflix"> CURRENTLY WATCHING
+## <img src="https://cdn.simpleicons.org/visualstudiocode/00d9ff" width="19" alt="VS Code"> ENGINEERING TOOLBOX
 
 <div align="center">
 
-### <img src="https://cdn.simpleicons.org/netflix/E50914" width="15" alt="Netflix"> `DEVELOPER MODE`
+<img src="https://cdn.simpleicons.org/arduino/00979D" width="38" alt="Arduino"> &nbsp;
+<img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="38" alt="Raspberry Pi"> &nbsp;
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="38" alt="Espressif">
 
-**Season 01 · Episode 01**
+<br><br>
 
-<br>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python"> &nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" alt="C++"> &nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git"> &nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub">
 
-<img src="https://cdn.simpleicons.org/speakerdeck/FFFFFF" width="17" alt="Volume"> &nbsp; **━━━━━━━━━━━●━━━━━━** &nbsp; **72%**
+<br><br>
 
-<sub>BUILDING&nbsp;&nbsp;&nbsp;&nbsp; LEARNING&nbsp;&nbsp;&nbsp;&nbsp; BREAKING&nbsp;&nbsp;&nbsp;&nbsp; FIXING&nbsp;&nbsp;&nbsp;&nbsp; SHIPPING</sub>
+<sub>MICROCONTROLLERS · EMBEDDED · PYTHON · C/C++</sub><br>
+<sub>GIT · GITHUB · DEBUGGING · SYSTEM DESIGN</sub>
 
 </div>
 
 <br>
 
-**<img src="https://cdn.simpleicons.org/youtube/E50914" width="15" alt="Play"> NOW PLAYING** &nbsp; **The Next Big Build**
-
-<sub>A story of ideas, code and persistence.</sub>
+> **TOOLBOX:** Hardware, firmware and software — connected.
 
 </td>
 <td width="30%" valign="top">
 
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="GitHub"> GITHUB STATS
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="GitHub"> GITHUB SIGNAL
 
 <div align="center">
 
@@ -210,16 +213,16 @@ Developer Utility
 
 | | |
 |:---:|:---:|
-| ⭐ **STARS** | 🔥 **COMMITS** |
-| **120+** | **1.2K+** |
-| 📦 **REPOSITORIES** | ✦ **CONTRIBUTIONS** |
-| **25+** | **600+** |
+| **STARS** | **COMMITS** |
+| `TRACKING` | `TRACKING` |
+| **REPOS** | **CONTRIBUTIONS** |
+| `ACTIVE` | `BUILDING` |
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/mradulx?style=flat-square&label=FOLLOWERS&labelColor=111111&color=E50914)](https://github.com/mradulx?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mradulx?style=flat-square&label=FOLLOWERS&labelColor=071015&color=00d9ff)](https://github.com/mradulx?tab=followers)
 
-[VIEW FULL PROFILE ↗](https://github.com/mradulx)
+[VIEW PROFILE ↗](https://github.com/mradulx)
 
 </div>
 
@@ -233,7 +236,7 @@ Developer Utility
 
 <a name="about"></a>
 
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="Profile"> ABOUT ME
+## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Engineering"> ABOUT THE ENGINEER
 
 <table>
 <tr>
@@ -241,32 +244,38 @@ Developer Utility
 
 ### MRADUL SINGH
 
-**Developer** · Builder · Lifelong Learner
+**ECE Engineer** · Developer · Builder · Lifelong Learner
 
-I'm interested in turning ideas into useful software, learning new technologies, and continuously improving through real projects.
+I'm interested in electronics, embedded systems, software and the engineering process behind turning an idea into a working system.
 
-`INDIA` &nbsp; `ALWAYS BUILDING` &nbsp; `PROBLEM SOLVER`
+I enjoy the part where theory becomes practical: **design → prototype → test → debug → improve.**
+
+`INDIA` &nbsp; `ECE` &nbsp; `BUILDING` &nbsp; `LEARNING`
 
 </td>
 <td width="30%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/netflix/E50914" width="16" alt="Netflix"> TOP PICKS FOR YOU
+### <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="16" alt="Arduino"> ENGINEERING MINDSET
 
-`OPEN SOURCE`
+`SYSTEMS`
 
-Giving back to the community.
+Think in blocks.
 
-`CLEAN CODE`
+`SIGNALS`
 
-Readable. Scalable. Maintainable.
+Measure before guessing.
 
-`PROBLEM SOLVING`
+`HARDWARE`
 
-Turning challenges into opportunities.
+Build it. Test it.
 
-`IMPACT DRIVEN`
+`SOFTWARE`
 
-Building solutions that matter.
+Automate the boring parts.
+
+`DEBUG`
+
+Find the real problem.
 
 </td>
 </tr>
@@ -276,13 +285,13 @@ Building solutions that matter.
 
 <a name="connect"></a>
 
-## <img src="https://cdn.simpleicons.org/linktree/FFFFFF" width="19" alt="Connect"> CONNECT
+## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="Connect"> CONNECT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mradulx-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
+[![GitHub](https://img.shields.io/badge/GitHub-mradulx-071015?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
 
-**Liked what you saw? Let's build something worth streaming.**
+**Have a circuit, system or idea worth building? Let's connect.**
 
 </div>
 
@@ -290,12 +299,12 @@ Building solutions that matter.
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/netflix/E50914" width="24" alt="Netflix">
+<img src="https://cdn.simpleicons.org/arduino/00d9ff" width="24" alt="Electronics">
 
-### MRADULFLIX
+### MRADUL // ECE LAB
 
-*REAL PROJECTS. REAL IMPACT.*
+*DESIGN · MEASURE · DEBUG · BUILD*
 
-`CODE` · `COMMIT` · `CONQUER`
+`VCC` · `GND` · `DATA`
 
 </div>
