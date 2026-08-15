@@ -149,7 +149,7 @@ STATUS  ● LIVE
 <td width="35%" valign="top">
 
 <a name="stack"></a>
-## <img src="https://cdn.simpleicons.org/visualstudiocode/00d9ff" width="19" alt="VS Code"> ENGINEERING TOOLBOX
+## <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="19" alt="Visual Studio Code"> ENGINEERING TOOLBOX
 
 <div align="center">
 <img src="https://cdn.simpleicons.org/arduino/00979D" width="38" alt="Arduino"> &nbsp;
