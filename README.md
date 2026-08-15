@@ -10,6 +10,7 @@
 <a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#contributions">CONTRIBUTIONS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#connect">CONNECT</a>
 </div>
@@ -192,6 +193,22 @@ STATUS  ● LIVE
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<a name="contributions"></a>
+
+## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mradulx&bg_color=071015&color=00d9ff&line=00d9ff&point=39d353&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+<br>
+
+`COMMIT` → `BUILD` → `DEBUG` → `REPEAT`
+
 </div>
 
 ---
