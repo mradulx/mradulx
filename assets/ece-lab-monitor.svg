@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Animated ECE laboratory signal monitor">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b10"/><stop offset="1" stop-color="#071c22"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#06151a"/><stop offset="1" stop-color="#02090c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#16414a" stroke-width="1"/></pattern>
+  <clipPath id="scope"><rect x="42" y="112" width="760" height="220" rx="8"/></clipPath>
+</defs>
+<rect width="1200" height="430" rx="18" fill="url(#bg)" stroke="#1d4650" stroke-width="2"/>
+<text x="34" y="48" fill="#00d9ff" font-family="monospace" font-size="18" font-weight="700" letter-spacing="4">ECE LAB // SIGNAL ACQUISITION SYSTEM</text>
+<circle cx="1128" cy="39" r="7" fill="#39d353"><animate attributeName="opacity" values=".35;1;.35" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="1145" y="45" fill="#8fb4bc" font-family="monospace" font-size="13">LIVE</text>
+<rect x="28" y="78" width="790" height="270" rx="12" fill="url(#screen)" stroke="#24515a"/>
+<rect x="42" y="112" width="760" height="220" fill="url(#grid)" opacity=".8"/>
+<g clip-path="url(#scope)" fill="none" stroke="#00d9ff" filter="url(#glow)">
+ <path d="M-20 222 C20 222 30 150 70 222 S120 294 160 222 S210 150 250 222 S300 294 340 222 S390 150 430 222 S480 294 520 222 S570 150 610 222 S660 294 700 222 S750 150 790 222 S840 294 880 222" stroke-width="4">
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="-84 0" dur="2.2s" repeatCount="indefinite"/>
+ </path>
+ <path d="M-20 222 C20 222 30 150 70 222 S120 294 160 222 S210 150 250 222 S300 294 340 222 S390 150 430 222 S480 294 520 222 S570 150 610 222 S660 294 700 222 S750 150 790 222 S840 294 880 222" stroke="#ffffff" stroke-width="1.2" opacity=".7">
+  <animateTransform attributeName="transform" type="translate" from="-84 0" to="-168 0" dur="2.2s" repeatCount="indefinite"/>
+ </path>
+</g>
+<line x1="42" y1="222" x2="802" y2="222" stroke="#38717a" opacity=".7"/>
+<line x1="422" y1="112" x2="422" y2="332" stroke="#38717a" opacity=".7"/>
+<rect x="42" y="92" width="120" height="24" rx="5" fill="#00d9ff" opacity=".12"/>
+<text x="55" y="109" fill="#00d9ff" font-family="monospace" font-size="12" font-weight="700">CH-1 // SCOPE</text>
+<g font-family="monospace">
+ <text x="52" y="368" fill="#739aa3" font-size="12">TIME</text><text x="100" y="368" fill="#d8f8ff" font-size="12">10 ms/div</text>
+ <text x="260" y="368" fill="#739aa3" font-size="12">VOLT</text><text x="306" y="368" fill="#d8f8ff" font-size="12">1.00 V/div</text>
+ <text x="495" y="368" fill="#739aa3" font-size="12">FREQ</text><text x="545" y="368" fill="#d8f8ff" font-size="12">1.00 kHz</text>
+ <text x="680" y="368" fill="#739aa3" font-size="12">MODE</text><text x="730" y="368" fill="#39d353" font-size="12">AUTO</text>
+</g>
+<rect x="844" y="78" width="328" height="270" rx="12" fill="#061116" stroke="#24515a"/>
+<text x="872" y="112" fill="#00d9ff" font-family="monospace" font-size="14" font-weight="700">SYSTEM TELEMETRY</text>
+<text x="872" y="150" fill="#739aa3" font-family="monospace" font-size="12">SIGNAL QUALITY</text>
+<rect x="872" y="162" width="270" height="10" rx="5" fill="#18333a"/><rect x="872" y="162" width="232" height="10" rx="5" fill="#00d9ff"><animate attributeName="width" values="190;250;220;232" dur="2.8s" repeatCount="indefinite"/></rect>
+<text x="872" y="204" fill="#739aa3" font-family="monospace" font-size="12">SAMPLING RATE</text><text x="1100" y="204" fill="#d8f8ff" font-family="monospace" font-size="15">10 kS/s</text>
+<text x="872" y="238" fill="#739aa3" font-family="monospace" font-size="12">NOISE FLOOR</text><text x="1100" y="238" fill="#d8f8ff" font-family="monospace" font-size="15">-42 dB</text>
+<text x="872" y="272" fill="#739aa3" font-family="monospace" font-size="12">MCU LINK</text><text x="1100" y="272" fill="#39d353" font-family="monospace" font-size="15">OK</text>
+<g transform="translate(872 300)"><circle cx="7" cy="7" r="6" fill="#39d353"><animate attributeName="opacity" values=".3;1;.3" dur=".9s" repeatCount="indefinite"/></circle><text x="22" y="12" fill="#9bc1c9" font-family="monospace" font-size="12">ACQUISITION ACTIVE</text></g>
+<text x="34" y="405" fill="#00d9ff" font-family="monospace" font-size="13" letter-spacing="3">DESIGN  →  PROTOTYPE  →  MEASURE  →  DEBUG  →  ITERATE</text>
+</svg>
