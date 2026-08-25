@@ -1,260 +1,206 @@
 <div align="center">
 
-<img src="./assets/mradulflix-banner.svg" width="100%" alt="Mradul — ECE engineering banner" />
+<img src="./assets/mradulflix-banner.svg" width="100%" alt="Mradul — ECE engineer and builder" />
 
-</div>
-
-<br>
-
-<div align="center">
-<a href="#projects">PROJECTS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#ece">ECE LAB</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#stack">TOOLBOX</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#contributions">CONTRIBUTIONS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#about">ABOUT</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#connect">CONNECT</a>
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="19" alt="Arduino"> FEATURED BUILD
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### THE ENGINEERING JOURNEY
+### `MRADUL // ENGINEERING MODE: ON`
 
 **Electronics × Embedded Systems × Software**
 
-I like working at the boundary between hardware and code — understanding how a signal travels, how a circuit behaves, and how software can control the system around it.
+[![GitHub](https://img.shields.io/badge/GitHub-mradulx-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
+[![Profile views](https://komarev.com/ghpvc/?username=mradulx&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/mradulx)
 
-`ECE` &nbsp; `EMBEDDED` &nbsp; `SIGNALS` &nbsp; `SOFTWARE`
+</div>
+
+---
+
+## `01` — WHO I AM
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### I build where **hardware meets code.**
+
+I'm **Mradul Singh**, an ECE engineer who likes understanding systems from the signal level all the way up to the software interface.
+
+I don't want my GitHub to look like a list of technologies. I want it to show a pattern:
+
+> **Learn → Build → Break → Debug → Improve → Ship**
+
+My sweet spot is the intersection of **embedded systems, electronics, programming, problem solving and real-world engineering.**
+
+</td>
+<td width="35%" valign="top">
+
+### `SYSTEM STATUS`
+
+`●` **ONLINE**
+
+**ROLE**  ECE / Developer
+
+**FOCUS** Embedded + Software
+
+**MODE** Building
+
+**MINDSET** Curious
+
+**NEXT** Bigger systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02` — NOW BUILDING
+
+<a href="https://github.com/mradulx/pulselab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mradulx&repo=pulselab&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d6da&icon_color=00d9ff" width="49%" alt="PulseLab repository card" />
+</a>
+
+### **PulseLab** — Real-time IoT monitoring
+
+`ESP32` · `MQTT` · `FastAPI` · `WebSockets` · `React` · `TypeScript`
+
+A system connecting **sensor telemetry → backend → database → live dashboard**. The goal isn't another demo app; it's learning how a complete hardware-to-software pipeline is actually engineered.
+
+**STATUS:** `FOUNDATION / ARCHITECTURE`
+
+---
+
+## `03` — BUILDS WORTH SHOWING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Smart Billing System
+
+An Arduino-based automatic shopping-cart / billing prototype using RFID-style product identification, LCD output, LEDs, buzzer feedback and serial input.
+
+**What it represents:** turning electronics concepts into a working physical system.
+
+`ARDUINO` `C/C++` `I2C` `LCD` `RFID`
+
+[VIEW PROJECT →](https://github.com/mradulx/Smart-billing-system-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 DSA Run
+
+A dedicated space for algorithmic problem solving and strengthening the programming fundamentals that sit underneath larger engineering systems.
+
+**What it represents:** consistency, logic and learning through repetition.
+
+`DSA` `ALGORITHMS` `PROBLEM SOLVING`
+
+_Private learning repository._
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — ENGINEERING TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,cpp,git,github,vscode,linux,react,ts,fastapi&perline=11" alt="Engineering and software tools" />
 
 <br><br>
 
-[▶ EXPLORE BUILDS](https://github.com/mradulx) &nbsp;&nbsp; [VIEW SOURCE](https://github.com/mradulx)
+`MICROCONTROLLERS` · `EMBEDDED` · `C/C++` · `PYTHON` · `GIT` · `LINUX`
 
-</td>
-<td width="45%" valign="top" align="center">
-<img src="./assets/system-architecture.svg" width="100%" alt="Animated system architecture: sensor to MCU to output signal" />
-</td>
-</tr>
-</table>
+`APIs` · `REACT` · `TYPESCRIPT` · `DEBUGGING` · `SYSTEM DESIGN`
 
----
+</div>
 
-<a name="projects"></a>
-
-## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Raspberry Pi"> ENGINEERING BUILDS
-
-<table>
-<tr>
-<td width="20%" valign="top">
-
-**01**
-### EMBEDDED
-`MCU / IoT`
-
-Hardware + firmware projects.
-
-**◉ ◉ ◉ ◉ ◉**
-
-[VIEW →](https://github.com/mradulx)
-
-</td>
-<td width="20%" valign="top">
-
-**02**
-### SIGNAL LAB
-`DSP / SIGNALS`
-
-Exploring signals, sampling and processing.
-
-**◉ ◉ ◉ ◉ ◉**
-
-[VIEW →](https://github.com/mradulx)
-
-</td>
-<td width="20%" valign="top">
-
-**03**
-### DIGITAL LOGIC
-`DIGITAL / RTL`
-
-Logic, systems and digital design.
-
-**◉ ◉ ◉ ◉ ○**
-
-[VIEW →](https://github.com/mradulx)
-
-</td>
-<td width="20%" valign="top">
-
-**04**
-### COMMUNICATION
-`RF / DATA`
-
-Communication and data systems.
-
-**◉ ◉ ◉ ◉ ○**
-
-[VIEW →](https://github.com/mradulx)
-
-</td>
-<td width="20%" valign="top">
-
-**05**
-### SOFTWARE
-`CODE / TOOLS`
-
-Software that makes systems useful.
-
-**◉ ◉ ◉ ◉ ◉**
-
-[VIEW →](https://github.com/mradulx)
-
-</td>
-</tr>
-</table>
-
-> **LAB STATUS:** `ACTIVE` · Real engineering projects will be added here as they are built.
+> **My rule:** tools are secondary. Understanding the system comes first.
 
 ---
 
-<div align="center">
-<table>
-<tr>
-<td width="35%" valign="top">
-
-<a name="ece"></a>
-## <img src="https://cdn.simpleicons.org/espressif/00d9ff" width="19" alt="Espressif"> ECE LAB
-
-### SIGNAL MONITOR
+## `05` — ECE LAB
 
 ```text
-CH-1  ─────────────────────────
-      ▁▂▃▄▆▇█▇▆▄▃▂▁▂▄▆█▇▅▃▂
-
-FREQ    1.00 kHz
-V/DIV   1.00 V
-T/DIV   10 ms
-MODE    AUTO
-STATUS  ● LIVE
+┌──────────────────────────────────────────────────────────────┐
+│  SIGNAL MONITOR                              CH-1  ● LIVE    │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│      ▁▂▃▄▆█▇▅▃▂▁      ▁▂▄▆█▇▆▄▂▁      ▁▂▃▅▇█▆▄▂            │
+│  ────╱───────╲────────╱────────╲────────╱───────────        │
+│                                                              │
+│  FREQ     1.00 kHz       V/DIV     1.00 V                  │
+│  T/DIV    10 ms          MODE      AUTO                    │
+│  STATUS   BUILDING       SIGNAL    STABLE                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-**BUILD → MEASURE → DEBUG → REPEAT**
+### The engineering loop
 
-</td>
-<td width="35%" valign="top">
+**DESIGN** → **PROTOTYPE** → **MEASURE** → **DEBUG** → **ITERATE**
 
-<a name="stack"></a>
-## <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="19" alt="Visual Studio Code"> ENGINEERING TOOLBOX
-
-<div align="center">
-<img src="https://cdn.simpleicons.org/arduino/00979D" width="38" alt="Arduino"> &nbsp;
-<img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="38" alt="Raspberry Pi"> &nbsp;
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="38" alt="Espressif">
-<br><br>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python"> &nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" alt="C++"> &nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git"> &nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub">
-<br><br>
-<sub>MICROCONTROLLERS · EMBEDDED · PYTHON · C/C++</sub><br>
-<sub>GIT · GITHUB · DEBUGGING · SYSTEM DESIGN</sub>
-</div>
-
-<br>
-> **TOOLBOX:** Hardware, firmware and software — connected.
-
-</td>
-<td width="30%" valign="top">
-
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="19" alt="GitHub"> GITHUB SIGNAL
-
-<div align="center">
-
-### `mradulx`
-
-| | |
-|:---:|:---:|
-| **STARS** | **COMMITS** |
-| `TRACKING` | `TRACKING` |
-| **REPOS** | **CONTRIBUTIONS** |
-| `ACTIVE` | `BUILDING` |
-
-<br>
-[![GitHub followers](https://img.shields.io/github/followers/mradulx?style=flat-square&label=FOLLOWERS&labelColor=071015&color=00d9ff)](https://github.com/mradulx?tab=followers)
-
-[VIEW PROFILE ↗](https://github.com/mradulx)
-
-</div>
-</td>
-</tr>
-</table>
-</div>
+That loop is more important to me than memorizing another framework.
 
 ---
 
-<a name="contributions"></a>
-
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="GitHub"> CONTRIBUTIONS
+## `06` — CONTRIBUTION MISSION
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mradulx&bg_color=071015&color=00d9ff&line=00d9ff&point=39d353&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="./assets/contribution-rocket.svg" width="100%" alt="Animated contribution rocket" />
 
-<br>
+### `COMMIT → BUILD → DEBUG → REPEAT`
 
-`COMMIT` → `BUILD` → `DEBUG` → `REPEAT`
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mradulx&bg_color=071015&color=00d9ff&line=00d9ff&point=39d353&area=true&hide_border=true)
 
 </div>
 
 ---
 
-<a name="about"></a>
-
-## <img src="https://cdn.simpleicons.org/raspberrypi/00d9ff" width="19" alt="Engineering"> ABOUT THE ENGINEER
+## `07` — CURRENTLY LEARNING
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="33%" valign="top">
 
-### MRADUL SINGH
+### `HARDWARE`
 
-**ECE Engineer** · Developer · Builder · Lifelong Learner
+→ Microcontrollers
 
-I'm interested in electronics, embedded systems, software and the engineering process behind turning an idea into a working system.
+→ Sensors & interfaces
 
-I enjoy the part where theory becomes practical: **design → prototype → test → debug → improve.**
+→ Embedded architecture
 
-`INDIA` &nbsp; `ECE` &nbsp; `BUILDING` &nbsp; `LEARNING`
+→ Digital electronics
 
 </td>
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/arduino/00d9ff" width="16" alt="Arduino"> ENGINEERING MINDSET
+### `SOFTWARE`
 
-`SYSTEMS`
+→ Data structures
 
-Think in blocks.
+→ Python / C++
 
-`SIGNALS`
+→ APIs & backends
 
-Measure before guessing.
+→ Git & Linux
 
-`HARDWARE`
+</td>
+<td width="33%" valign="top">
 
-Build it. Test it.
+### `SYSTEMS`
 
-`SOFTWARE`
+→ IoT pipelines
 
-Automate the boring parts.
+→ Telemetry
 
-`DEBUG`
+→ Real-time dashboards
 
-Find the real problem.
+→ Hardware ↔ software integration
 
 </td>
 </tr>
@@ -262,27 +208,47 @@ Find the real problem.
 
 ---
 
-<a name="connect"></a>
-
-## <img src="https://cdn.simpleicons.org/github/00d9ff" width="19" alt="Connect"> CONNECT
+## `08` — GITHUB SIGNAL
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mradulx-071015?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mradulx)
-
-**Have a circuit, system or idea worth building? Let's connect.**
+<img src="https://github-readme-stats.vercel.app/api?username=mradulx&show_icons=true&hide_border=true&bg_color=071015&title_color=00d9ff&text_color=c9d6da&icon_color=00d9ff&rank_icon=github" width="49%" alt="Mradul's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradulx&layout=compact&hide_border=true&bg_color=071015&title_color=00d9ff&text_color=c9d6da" width="49%" alt="Mradul's top languages" />
 
 </div>
 
 ---
 
+## `09` — ENGINEERING DNA
+
 <div align="center">
-<img src="https://cdn.simpleicons.org/arduino/00d9ff" width="24" alt="Electronics">
 
-### MRADUL // ECE LAB
+| PRINCIPLE | WHAT IT MEANS |
+|:---:|:---|
+| `01` | **Understand before copying.** |
+| `02` | **Measure before guessing.** |
+| `03` | **Build small, then scale.** |
+| `04` | **Debug the root cause.** |
+| `05` | **Keep learning by making.** |
 
-*DESIGN · MEASURE · DEBUG · BUILD*
+</div>
 
-`VCC` · `GND` · `DATA`
+---
+
+## `10` — LET'S BUILD
+
+<div align="center">
+
+**Have a circuit, embedded idea, software problem or interesting system?**
+
+[![GitHub](https://img.shields.io/badge/OPEN_MY_GITHUB-00d9ff?style=for-the-badge&logo=github&logoColor=071015)](https://github.com/mradulx)
+
+<br><br>
+
+`VCC` · `GND` · `DATA` · `CODE`
+
+### **MRADUL // ECE LAB**
+
+*DESIGN. MEASURE. DEBUG. BUILD.*
 
 </div>
