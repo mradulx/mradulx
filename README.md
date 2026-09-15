@@ -1,27 +1,22 @@
-# Hi, I'm Mradul 👋
+ECE student interested in the intersection of hardware and software.
 
-**ECE Student | Embedded Systems | Software**
+I enjoy building things with embedded systems, developer tools, and software, and learning by taking projects from idea to implementation.
 
-I like building things where **hardware meets code**.
-
-- 🔧 Electronics & embedded systems
-- 💻 Python, C/C++, Git & Linux
-- 🧠 Data structures & problem solving
-- 🚀 Currently building and learning
+I'm particularly interested in:
+- Embedded systems and electronics
+- Software engineering and developer tools
+- C/C++, Python, and systems programming
+- Data structures, algorithms, and problem solving
+- Open source and learning in public
 
 ## Projects
 
-- **[PulseLab](https://github.com/mradulx/pulselab)** — Real-time IoT monitoring
-- **[Smart Billing System](https://github.com/mradulx/Smart-billing-system-)** — Arduino-based billing prototype
+- [DevTool Forge](https://github.com/mradulx/devtool-forge) — A plugin-first developer tool built around maintainable customization.
+- [PulseLab](https://github.com/mradulx/pulselab) — Real-time IoT monitoring.
+- [Smart Billing System](https://github.com/mradulx/Smart-billing-system-) — Arduino-based billing prototype.
 
-## Tech
+## Currently
 
-`C/C++` `Python` `Arduino` `ESP32` `Git` `Linux` `React` `TypeScript`
+Building projects, improving my software fundamentals, and exploring the intersection of electronics and code.
 
-## GitHub
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mradulx&show_icons=true&hide_border=true&theme=transparent)](https://github.com/mradulx)
-
----
-
-**Learn → Build → Debug → Improve.**
+**Build → Debug → Learn → Repeat.**
